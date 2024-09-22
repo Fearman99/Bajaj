@@ -8,9 +8,9 @@ app.use(express.json());
 
 // Static user information
 const userInfo = {
-  user_id: "Shivansh_Tiwari_10082003",
-  email: "st5239@srmist.edu.in",
-  roll_number: "RA2111003030438",
+  user_id: "Mohd_Zaid_Khan_RA2111026030195",
+  email: "mk3629@srmist.edu.in",
+  roll_number: "RA2111026030195",
 };
 
 // Utility function to separate numbers and alphabets, and find the highest alphabet
